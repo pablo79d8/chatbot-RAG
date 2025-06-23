@@ -58,3 +58,7 @@ This repository contains the main outcomes of my Bachelor's Thesis at the Univer
 
 This project demonstrates how advanced AI and NLP methods (RAG, LLMs) can be tailored to create practical, domain-specific solutions for education. The architecture is modular and scalable, making it adaptable for other courses or institutions.
 
+
+![image](https://github.com/user-attachments/assets/e8858597-2ffa-47b9-958e-fd9069b5a3cb)
+
+
