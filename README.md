@@ -63,7 +63,7 @@ This project demonstrates how advanced AI and NLP methods (RAG, LLMs) can be tai
 
 **Chatbot tab view:**
 
-![Chatbot Tab]([img/chatbot_tab.png](https://github.com/user-attachments/assets/e8858597-2ffa-47b9-958e-fd9069b5a3cb))
+![Chatbot Tab](https://github.com/user-attachments/assets/e8858597-2ffa-47b9-958e-fd9069b5a3cb)
 
 **File manager tab view:**
 
