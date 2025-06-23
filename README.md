@@ -1,5 +1,8 @@
 # 🤖 Bachelor's Thesis: AI Chatbot with Retrieval-Augmented Generation (RAG) for Programming Education
 
+> **Note:** The full thesis and documentation are written in Spanish.  
+> _Nota: El trabajo y la documentación están redactados en español._
+
 This repository contains the main outcomes of my Bachelor's Thesis at the University of Valladolid, focused on developing an intelligent chatbot optimized for the "Fundamentals of Programming" course. The project combines modern AI techniques, natural language processing, and robust software engineering to address real educational needs for both students and instructors.
 
 ## 📚 Project Overview
